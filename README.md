@@ -1,2 +1,2 @@
 # JUPNote
-Jupiter Notebook Exercise IBM course
+Hands-on Lab: Getting Started with GitHub
